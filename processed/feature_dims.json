@@ -1,0 +1,16 @@
+{
+  "ingredient": {
+    "bert": 768,
+    "gpt": 256,
+    "fp": 1024,
+    "total": 2048
+  },
+  "target": {
+    "protbert": 1024,
+    "total": 1024
+  },
+  "herb": {
+    "qwen": 2560,
+    "total": 2560
+  }
+}
